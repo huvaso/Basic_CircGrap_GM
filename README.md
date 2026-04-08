@@ -1,4 +1,4 @@
-# Kick-off code for building a multidigraph and extracting frequent subgraphs from it
+# 🌐 Kick-off code for building a multidigraph and extracting frequent subgraphs from it
 
 ## Created by
 **Author:** Hugo Alatrista-Salas <br />
