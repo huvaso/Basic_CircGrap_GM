@@ -12,7 +12,6 @@
 
 ## Description
 
-
 This code enables the construction of a multidigraph representing tourist movement in Lille, France. 
 Then, the multidigraph is simplified by removing multiple edges and self-loops. 
 The simplified graph is used as input for frequent subgraph mining through the PAMI library.
